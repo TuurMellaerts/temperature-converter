@@ -11,6 +11,12 @@ def main():
 
     root.title("Temperature Converter")
 
+    label = tk.Label(text="Enter temperature")
+    entry = tk.Entry()
+
+    label.pack()
+    entry.pack()
+
     root.mainloop()
 
 if __name__ == "__main__":
