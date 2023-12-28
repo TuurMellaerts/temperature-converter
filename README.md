@@ -1,5 +1,5 @@
 # temperature-converter (in progress)
-A temperature converter application.
+A temperature converter application made for Debian-based Linux distributions.
 
 ## How to use it?
 To use this application, you should clone this repository. Next, open the folder of this repository in CMD and run the command "make build". This will build and execute the program. 
