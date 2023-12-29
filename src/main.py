@@ -6,7 +6,6 @@
 import tkinter as tk
 
 def main():
-    print("Hello World!")
     root = tk.Tk()
 
     root.title("Temperature Converter")
